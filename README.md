@@ -1,4 +1,4 @@
-1-(book store)first code using web scraping to Scrap the books(title, price) and put them into a csv file
+1-(book store) first code using web scraping to Scrap the books(title, price) and put them into a csv file
 http://books.toscrape.com/catalogue/category/books/science_22/index.html
 
 
